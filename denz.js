@@ -146,7 +146,7 @@ NamaBot = settings.NamaBot
 multi = true
 nopref = false
 Nogpy = 087772961550 
-Noovo = - 
+NoOvo = 087772961550
 Nodana = 087772961550
 /////Switch \\\\\
 let bugc = true
